@@ -45,4 +45,4 @@ AppLayout.propTypes = {
     children: PropTypes.node.isRequired
 }
 
-export default AppLayout;
+export default AppLayout; 
